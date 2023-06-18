@@ -1,0 +1,182 @@
+c:\users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\bin\Debug\DateTimeSelector.dll
+C:\Users\daras\documents\visual studio 2013\Projects\spare parts\spare parts\obj\Debug\spare parts.csprojResolveAssemblyReference.cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare parts.csprojResolveAssemblyReference.cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form4.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form4.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2)\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form4.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\bin\Debug\Database.mdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess (2) - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.csprojResolveAssemblyReference.cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Database.mdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.csprojResolveAssemblyReference.cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form4.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess - Copy\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Database.mdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Editor.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare parts.csprojResolveAssemblyReference.cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form4.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.importtoexcel.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess -9 mohtada\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Database.mdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\spare parts.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Base.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.ADD_TO__CART_FORM.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.chek_form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.faktor.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Faktor_form.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.marjoa.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.merjoatoDB.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.payment.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Product_list.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Sellers_form.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.costumerlist_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Financial_from.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form2.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form3.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.chek_form.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.importtoexcel.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Properties.Resources.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare_parts.Form1.dje.resources
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare parts.csproj.GenerateResource.Cache
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\dje\spare parts.resources.dll
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+C:\Users\daras\Documents\Visual Studio 2013\Projects\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb
+F:\dara\spare parts - Acsess\spare parts - Acsess\spare parts - Acsess\spare parts\bin\Debug\spare parts.exe.config
+F:\dara\spare parts - Acsess\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare parts.exe
+F:\dara\spare parts - Acsess\spare parts - Acsess\spare parts - Acsess\spare parts\obj\Debug\spare parts.pdb

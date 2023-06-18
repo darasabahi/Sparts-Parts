@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A955B460-6C33-45BF-8909-0A4B01C641E3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>spare_parts</RootNamespace>
+    <AssemblyName>spare parts</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\daras\Desktop\Azango\bin\Debug\pic\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Rob-Sanders-Gear-Worm-gear.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AnalogClock">
+      <HintPath>..\..\..\..\..\Desktop\New folder\کامپوننت ساعت آنالوگ\AnalogClock.dll</HintPath>
+    </Reference>
+    <Reference Include="DateTimeSelector">
+      <HintPath>..\..\..\..\..\Desktop\DateTimeSelector.dll</HintPath>
+    </Reference>
+    <Reference Include="GHNet, Version=2009.6.4.0, Culture=neutral, PublicKeyToken=a9ea815332e8d0a1" />
+    <Reference Include="GHNet.Win, Version=2009.6.4.0, Culture=neutral, PublicKeyToken=a9ea815332e8d0a1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\GHNet.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Stimulsoft.Base, Version=2017.2.2.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a" />
+    <Reference Include="Stimulsoft.Controls, Version=2017.2.2.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a" />
+    <Reference Include="Stimulsoft.Controls.Win, Version=2017.2.2.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a" />
+    <Reference Include="Stimulsoft.Report, Version=2017.2.2.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a" />
+    <Reference Include="Stimulsoft.Report.Win, Version=2017.2.2.0, Culture=neutral, PublicKeyToken=ebe6666cba19647a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADD_TO _CART_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADD_TO _CART_FORM.Designer.cs">
+      <DependentUpon>ADD_TO _CART_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chek_form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chek_form2.Designer.cs">
+      <DependentUpon>chek_form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="costumerlist_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="costumerlist_from.Designer.cs">
+      <DependentUpon>costumerlist_from.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="faktor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faktor.Designer.cs">
+      <DependentUpon>faktor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Faktor_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Faktor_form.Designer.cs">
+      <DependentUpon>Faktor_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financial_from.Designer.cs">
+      <DependentUpon>Financial_from.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="importtoexcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="importtoexcel.Designer.cs">
+      <DependentUpon>importtoexcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs" />
+    <Compile Include="marjoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="marjoa.Designer.cs">
+      <DependentUpon>marjoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="merjoatoDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="merjoatoDB.Designer.cs">
+      <DependentUpon>merjoatoDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="payment.Designer.cs">
+      <DependentUpon>payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_list.Designer.cs">
+      <DependentUpon>Product_list.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sellers_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sellers_form.Designer.cs">
+      <DependentUpon>Sellers_form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADD_TO _CART_FORM.resx">
+      <DependentUpon>ADD_TO _CART_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chek_form2.resx">
+      <DependentUpon>chek_form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faktor.resx">
+      <DependentUpon>faktor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Faktor_form.resx">
+      <DependentUpon>Faktor_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="marjoa.resx">
+      <DependentUpon>marjoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="merjoatoDB.resx">
+      <DependentUpon>merjoatoDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="payment.resx">
+      <DependentUpon>payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_list.resx">
+      <DependentUpon>Product_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sellers_form.resx">
+      <DependentUpon>Sellers_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="costumerlist_from.resx">
+      <DependentUpon>costumerlist_from.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial_from.resx">
+      <DependentUpon>Financial_from.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.dje.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="importtoexcel.resx">
+      <DependentUpon>importtoexcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\DataSet1.faktorRow.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\styles\AC-Trad %28135-135px%29.png" />
+    <None Include="bin\Debug\styles\AC-System %28135-135px%29.png" />
+    <None Include="bin\Debug\pic\background.jpg" />
+    <None Include="bin\Debug\pic\cart2.png" />
+    <None Include="bin\Debug\pic\sellers.png" />
+    <None Include="bin\Debug\pic\produsts.png" />
+    <None Include="bin\Debug\pic\index.png" />
+    <None Include="bin\Debug\pic\f.png" />
+    <None Include="bin\Debug\pic\simple-o4.png" />
+    <None Include="bin\Debug\pic\simple-online-shop-icons-vector-1978154.png" />
+    <None Include="bin\Debug\pic\simple-online4.png" />
+    <None Include="bin\Debug\pic\customer.png" />
+    <Content Include="Database.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\unnafile.png" />
+    <None Include="Resources\chek.png" />
+    <Content Include="Rob-Sanders-Gear-Worm-gear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
